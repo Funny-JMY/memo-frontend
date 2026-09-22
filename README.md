@@ -9,7 +9,7 @@ React(Vite)로 만든 프론트엔드이며, FastAPI 백엔드와 연동해 방�
 | --- | --- |
 | 소개 페이지 (Vercel) | https://memo-frontend-yjm3.vercel.app/ |
 | API 문서 (Render, Swagger UI) | https://memo-backend-sn8m.onrender.com/docs |
-| 백엔드 저장소 | https://github.com/Funny-JMY/memo-backend |
+| 백엔드 저장소 | https://github.com/Funny-JMY/self-intro-backend |
 
 ## 화면 구성
 

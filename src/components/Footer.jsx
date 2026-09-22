@@ -32,7 +32,7 @@ export default function Footer() {
       </p>
       <div className="footer-links">
         <a
-          href="https://github.com/Funny-JMY/memo-frontend"
+          href="https://github.com/Funny-JMY/self-intro-frontend"
           target="_blank"
           rel="noreferrer"
         >
@@ -40,7 +40,7 @@ export default function Footer() {
         </a>
         <span aria-hidden="true">·</span>
         <a
-          href="https://github.com/Funny-JMY/memo-backend"
+          href="https://github.com/Funny-JMY/self-intro-backend"
           target="_blank"
           rel="noreferrer"
         >
